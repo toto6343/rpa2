@@ -1,0 +1,36 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Dic_City&Sequence_46",
+        "List_City2&Sequence_46",
+        "List_City&Sequence_46",
+        "Arr_City&Sequence_46",
+        "Str_Fruits&Sequence_33",
+        "Str_test&Sequence_33",
+        "Str_NewAddress&Sequence_22",
+        "Dt_NewAddress&Sequence_15",
+        "Dt_AddressTotal&Sequence_15",
+        "Dt_Address&Sequence_9",
+        "Dt_employees300filter2&Sequence_5",
+        "Dt_employees300filter&Sequence_5",
+        "Dt_Employees300&Sequence_5",
+        "Dt_Olympic1&Sequence_2",
+        "Dt_Olympic2&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
